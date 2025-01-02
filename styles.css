@@ -1,0 +1,37 @@
+/* General Reset */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Main Content */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #4CAF50;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
